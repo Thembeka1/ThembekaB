@@ -1,8 +1,14 @@
 
 function addValues() {
     let x = 4;
-    let y = 5;
+    let y = 54;
     let values = x + y;
     console.log("The sum of x and y is:", values);
 
 }
+
+function Greet(){
+    console.log("hello"; world)
+}
+
+Greet()
