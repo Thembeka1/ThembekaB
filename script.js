@@ -6,3 +6,8 @@ function addValues() {
     console.log("The sum of x and y is:", values);
 
 }
+ function greet(){
+    console.log(hello,Thembeka)
+ }
+  
+ greet();
